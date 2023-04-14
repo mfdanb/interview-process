@@ -1,18 +1,15 @@
-**Intro**
-*~5 minutes*
+**Intro** (*~5 minutes*)
 
 Just a normal conversation, introducing myself, the team, the project
 No expectations except candidate is able to talk
 
-**Tell me about your experiences**
-*~10 minutes*
+**Tell me about your experiences** (*~10 minutes*)
 
 What have you built?
 Who was on your team, who brought you the tasks, how did you plan the work?
 How did you ensure what you built works?
 
-**Technical assessment**
-*~ 15-30 minutes*
+**Technical assessment** (*~15-30 minutes*)
 
 - how do you work with git?
 	- branches / permissions
@@ -51,7 +48,6 @@ How did you ensure what you built works?
 	- what steps do you consider important in a pipeline? (building, running tests, running static analyzers and security tools)
 	- how do you handle secrets?
 
-**Reverse interview**
-*~ remaining time*
+**Reverse interview** (*~remaining time*)
 
 Now we answer all questions the candidate might have
