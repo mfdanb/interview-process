@@ -18,7 +18,7 @@
 	- you have a merge conflict, what do you do?
 
 - You need to add logging to your dotnet app, what do you do?
-	- depencendy injection
+	- dependency injection
 	- standard libraries
 	- log destinations (console, app insights, splunk, etc)
 	
